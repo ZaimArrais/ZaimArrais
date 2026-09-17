@@ -20,32 +20,8 @@
 
 ### 🎮 Project VEIL
 
-A narrative-driven psychological horror game inspired by Malaysian folklore and everyday life, blending supernatural encounters with themes rooted in reality.
-
-- 🏚️ Atmospheric environments
-- 👁️ Psychological & supernatural horror
-- 🇲🇾 Malaysian folklore and cultural influences
-
-> Some things are better off forgotten.
-
 <p>
   <img width="200" src="https://skillicons.dev/icons?i=unity,cs,blender,ps" />
-</p>
-
----
-
-### 🌲 Project Grove
-
-A collaborative workspace that combines project management, documentation, and visual planning into a single platform.
-
-- 📋 Task & project management
-- 📚 Knowledge base & documentation
-- 🎨 Moodboards & visual planning
-- 👥 Real-time collaboration
-> A platform to help solve a fragmented problem.
-
-<p>
-  <img width="250" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,nodejs,supabase,postgres,docker" />
 </p>
 
 # 💻 Tech Stack
