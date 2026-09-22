@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=ZAIM&fontAlign=50&fontAlignY=35&color=0:020617,100:0f172a&fontColor=ffffff&desc=SOFTWARE%20ENGINEER&descAlign=50&descAlignY=55&animation=twinkling" />
-
-</div>
-
-<div align="center">
 
 # Hi, I'm Zaim!
 
