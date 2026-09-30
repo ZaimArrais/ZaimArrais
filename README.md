@@ -1,11 +1,11 @@
+<div align="center">
 
-# Hi, I'm Zaim!
+# Hello!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=SYSTEMS;SIMULATION;SOFTWARE" />
 
-<img src="https://raw.githubusercontent.com/JulianPerl/JulianPerl/main/assets/starfield.gif" width="100%" />
-
 <img align="center" width="1920" src="https://i.redd.it/fisnfas5ip7c1.gif" />
+
 
 </div>
 
