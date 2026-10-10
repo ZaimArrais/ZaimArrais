@@ -11,11 +11,7 @@
 
 # 🚀 Current Projects
 
-### 🎮 Project VEIL
-
-<p>
-  <img width="200" src="https://skillicons.dev/icons?i=unity,cs,blender,ps" />
-</p>
+### [TO BE DETERMINED]
 
 # 💻 Tech Stack
 
