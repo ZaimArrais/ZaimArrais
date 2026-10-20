@@ -17,28 +17,27 @@
 
 ### 🧠 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,c,cpp,cs" />
 </p>
 
 ### 🌐 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express" />
 </p>
 
-### ⚙️ Systems & Platforms
+### 🗄️ Data & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,git,github,dotnet" />
-  <img src ="https://img.shields.io/badge/OutSystems-EF3340?style=for-the-badge&logo=outsystems&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,firebase,supabase" />
 </p>
 
-### ☁️ Data & Cloud
+### ⚙️ Development & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,cmake,linux" />
 </p>
 
-### 🎮 Game Development
+### 🎮 Game & Graphics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,godot,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,robloxstudio,threejs" />
 </p>
 
 ### 🎨 Creative & Design
